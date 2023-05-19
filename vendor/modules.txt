@@ -1,0 +1,6 @@
+# github.com/google/gousb v1.1.2
+## explicit; go 1.16
+github.com/google/gousb
+# github.com/jpoirier/visa v0.0.0-20180808170255-fcf9fc028c75
+## explicit
+github.com/jpoirier/visa

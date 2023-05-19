@@ -1,0 +1,4 @@
+github.com/google/gousb v1.1.2 h1:1BwarNB3inFTFhPgUEfah4hwOPuDz/49I0uX8XNginU=
+github.com/google/gousb v1.1.2/go.mod h1:GGWUkK0gAXDzxhwrzetW592aOmkkqSGcj5KLEgmCVUg=
+github.com/jpoirier/visa v0.0.0-20180808170255-fcf9fc028c75 h1:+o7HIMaE23JCnVNdmVkQ7c3Tp7NWgvW4k5sqy8bFl00=
+github.com/jpoirier/visa v0.0.0-20180808170255-fcf9fc028c75/go.mod h1:YChbZDBGywK0htpOy1EvGB7/JBF8PQEDLgNvyHyeJOU=
